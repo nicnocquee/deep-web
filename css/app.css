@@ -12,6 +12,12 @@ a {
   color: #FF3F57;
 }
 
+a:hover {
+  color: #FFFFFF;
+  background: #FFB4BD;
+  border: 1px solid #FFB4BD;
+}
+
 h3 {
   font-family: AvenirNext-Regular;
   font-size: 36px;
@@ -33,7 +39,6 @@ h3 {
   font-size: 18px;
   color: #FF3F57;
   line-height: 26px;
-  /* Rectangle 9: */
   border: 1px solid #FF3F57;
   border-radius: 8px;
   padding: 20px 20px 20px 20px;
@@ -132,5 +137,5 @@ img.fivec {
 
 .footer {
   text-align: center;
-  font-size: 14px;
+  font-size: 12px;
 }

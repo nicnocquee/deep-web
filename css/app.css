@@ -7,6 +7,11 @@
     line-height: 26px;
   }
 
+  label {
+    font-family: 'Muli', sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+  }
 
 a {
   color: #FF3F57;
@@ -17,14 +22,14 @@ a:hover {
 }
 
 h3 {
-  font-family: AvenirNext-Regular;
+  font-family: 'Muli', sans-serif;
   font-size: 36px;
   color: #4A4A4A;
   line-height: 49px;
 }
 
 .coming-soon {
-  font-family: AvenirNext-Regular;
+  font-family: 'Muli', sans-serif;
   font-size: 48px;
   color: #4A4A4A;
   line-height: 66px;
@@ -33,7 +38,7 @@ h3 {
 }
 
 .signup {
-  font-family: AvenirNext-Regular;
+  font-family: 'Muli', sans-serif;
   font-size: 18px;
   color: #FF3F57;
   line-height: 26px;
@@ -112,6 +117,15 @@ img.deep-phone {
   }
 }
 
+form .row {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+form .large-7 {
+  width: 100%;
+}
+
 .image-effects-row {
   margin-top: 150px;
   margin-bottom: 100px;
@@ -146,4 +160,32 @@ img.fivec {
 
 .sample {
   margin-bottom: 150px;
+}
+
+input[type="submit"] {
+  font-family: 'Muli', sans-serif;
+  font-size: 14px;
+  color: #FF3F57;
+  background-color: white;
+  line-height: 26px;
+  border: 1px solid #FF3F57;
+  border-radius: 5px;
+  padding: 5px 20px 5px 20px;
+  margin-top: 20px;
+}
+
+input[type="submit"]:hover {
+  color: #FFFFFF;
+  background: #FFB4BD;
+  border: 1px solid #FFB4BD;
+}
+
+input[type="text"] {
+  line-height: 26px;
+  width: 100%;
+}
+
+input[type="email"] {
+  line-height: 26px;
+  width: 100%;
 }

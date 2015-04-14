@@ -1,10 +1,12 @@
-p {
-  font-family: AvenirNext-Regular;
-  font-size: 18px;
-  font-weight: 100;
-  color: #787878;
-  line-height: 26px;
-}
+
+  p {
+    font-family: 'Muli', sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: #787878;
+    line-height: 26px;
+  }
+
 
 a {
   color: #FF3F57;
@@ -94,9 +96,11 @@ img.deep-phone {
   margin-bottom: 30px;
 }
 
-.row {
-  padding-left: 80px;
-  padding-right: 80px;
+@media only screen and (min-width: 40.063em) {
+  .row {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
 }
 
 .image-effects-row {

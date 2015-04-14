@@ -13,9 +13,7 @@ a {
 }
 
 a:hover {
-  color: #FFFFFF;
-  background: #FFB4BD;
-  border: 1px solid #FFB4BD;
+  color: #FFB4BD;
 }
 
 h3 {
@@ -42,6 +40,12 @@ h3 {
   border: 1px solid #FF3F57;
   border-radius: 8px;
   padding: 20px 20px 20px 20px;
+}
+
+.signup:hover {
+  color: #FFFFFF;
+  background: #FFB4BD;
+  border: 1px solid #FFB4BD;
 }
 
 .gray-bg {

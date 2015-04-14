@@ -1,0 +1,82 @@
+p {
+  font-family: AvenirNext-Regular;
+  font-size: 18px;
+  color: #333;
+  line-height: 26px;
+}
+
+h3 {
+  font-family: AvenirNext-Regular;
+  font-size: 36px;
+  color: #4A4A4A;
+  line-height: 49px;
+}
+
+.coming-soon {
+  font-family: AvenirNext-Regular;
+  font-size: 48px;
+  color: #4A4A4A;
+  line-height: 66px;
+}
+
+.signup {
+  font-family: AvenirNext-Regular;
+  font-size: 18px;
+  color: #FF3F57;
+  line-height: 26px;
+  /* Rectangle 9: */
+  border: 1px solid #FF3F57;
+  border-radius: 8px;
+}
+
+.gray-bg {
+  /* gray-bg: */
+  background: #F8F8F8;
+}
+
+.gray-gradient-bg {
+  /* Rectangle 8: */
+  background-image: linear-gradient(-180deg, #FFFFFF 0%, #F8F8F8 100%);
+}
+
+.logo {
+  /* logo: */
+  width: 100px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.deep-logo {
+  width: 75.5px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.logo-row {
+  margin-top: 65px;
+  margin-bottom: 25px;
+}
+
+.logo-deep-row {
+
+}
+
+.deep-caption {
+  margin-top: 5px;
+  margin-bottom: 65px;
+  text-align: center;
+}
+
+.deep-caption p {
+  color: #999;
+}
+
+img.deep-phone {
+  width: 302px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

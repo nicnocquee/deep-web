@@ -91,6 +91,7 @@ img.deep-phone {
 
 .deep-intro {
   margin-top: 60px;
+  margin-bottom: 30px;
 }
 
 .row {
@@ -99,8 +100,8 @@ img.deep-phone {
 }
 
 .image-effects-row {
-  margin-top: 200px;
-  margin-bottom: 200px;
+  margin-top: 150px;
+  margin-bottom: 100px;
 }
 
 .image-effects-column {
@@ -110,7 +111,7 @@ img.deep-phone {
 
 img.fivec {
   margin-top: 50px;
-  margin-bottom: 200px;
+  margin-bottom: 150px;
   margin-left:auto;
   margin-right:auto;
   display: block;

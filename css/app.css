@@ -83,8 +83,6 @@ img.deep-phone {
 }
 
 .deep-intro {
-  padding-left: 80px;
-  padding-right: 80px;
   margin-top: 60px;
 }
 
@@ -94,8 +92,8 @@ img.deep-phone {
 }
 
 .image-effects-row {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 200px;
+  margin-bottom: 200px;
 }
 
 .image-effects-column {
@@ -104,7 +102,13 @@ img.deep-phone {
 }
 
 img.fivec {
+  margin-top: 50px;
+  margin-bottom: 200px;
   margin-left:auto;
   margin-right:auto;
   display: block;
+}
+
+.gesture-title {
+  text-align: center;
 }

@@ -172,6 +172,7 @@ input[type="submit"] {
   border-radius: 5px;
   padding: 5px 20px 5px 20px;
   margin-top: 20px;
+  -webkit-appearance: none;
 }
 
 input[type="submit"]:hover {
@@ -188,4 +189,22 @@ input[type="text"] {
 input[type="email"] {
   line-height: 26px;
   width: 100%;
+}
+
+.cancel {
+  font-family: 'Muli', sans-serif;
+  font-size: 14px;
+  color: #4DB3D6;
+  background-color: white;
+  line-height: 26px;
+  border: 1px solid #4DB3D6;
+  border-radius: 5px;
+  padding: 9.5px 20px 10.5px 20px;
+  margin-top: 20px;
+}
+
+.cancel:hover {
+  color: #FFFFFF;
+  background: rgba(89, 212, 255, 0.78);
+  border: 1px solid rgba(89, 212, 255, 0.78);
 }

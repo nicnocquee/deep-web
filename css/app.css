@@ -30,9 +30,8 @@ h3 {
 
 .coming-soon {
   font-family: 'Muli', sans-serif;
-  font-size: 48px;
+  font-size: 30px;
   color: #4A4A4A;
-  line-height: 66px;
   margin-top: 60px;
   margin-bottom: 60px;
 }
@@ -114,6 +113,10 @@ img.deep-phone {
   .row {
     padding-left: 80px;
     padding-right: 80px;
+  }
+
+  .coming-soon {
+    font-size: 48px;
   }
 }
 
@@ -207,4 +210,8 @@ input[type="email"] {
   color: #FFFFFF;
   background: rgba(89, 212, 255, 0.78);
   border: 1px solid rgba(89, 212, 255, 0.78);
+}
+
+.coming-soon-note {
+  font-size: small;
 }

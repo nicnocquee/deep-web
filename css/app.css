@@ -7,6 +7,31 @@
     line-height: 26px;
   }
 
+.tagline {
+  font-family: 'Muli', sans-serif;
+  font-size: 18px;
+  font-weight: 200;
+  color: #787878;
+  line-height: 26px;
+}
+
+.app-name {
+  font-family: 'Muli', sans-serif;
+  font-size: 50px;
+  font-weight: 200;
+  color: #787878;
+  text-align: center;
+  line-height: 26px;
+}
+
+.introduction {
+  font-family: 'Muli', sans-serif;
+  font-size: 18px;
+  font-weight: 200;
+  color: #787878;
+  line-height: 26px;
+}
+
   label {
     font-family: 'Muli', sans-serif;
     font-size: 14px;
